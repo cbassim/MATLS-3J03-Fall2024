@@ -10,7 +10,8 @@ The course will be using JupyterLab Notebooks to support statistical concepts fo
 
 Click on the BinderHub launch here for a cloud service that allows users to share reproducible and interactive computing environments from code repositories. 
 
-
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/Statistcial-Methods-for-Engineering/Intro_Statistical_Methods_Engineering/HEAD
 
 For more information on BinderHub visit https://mybinder.org/.
 
