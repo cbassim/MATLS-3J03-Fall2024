@@ -1,0 +1,13 @@
+name: example-environment
+channels:
+  - conda-forge
+dependencies:
+  - python 3.9.13
+  - numpy
+  - matplotlib
+  - pandas
+  - seaborn
+  - scipy
+  - statsmodels
+  - sympy
+  - ipympl
