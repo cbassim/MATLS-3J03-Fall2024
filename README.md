@@ -1,4 +1,4 @@
-# Introductory-Statistical-Methods-for-Biomedical-Engineering
+# Introductory-Statistical-Methods-for-Engineering
 
 The course will be using JupyterLab Notebooks to support statistical concepts for Introductory Statistical Methods for Engineering. This GitHub repository will hold these Jupyter Notebooks.  
 
